@@ -47,9 +47,8 @@ HTML, CSS, JavaScript, Git/GitHub를 중심으로 공부하고 있습니다.
 
 ## GitHub 활동 📊
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhwmgl12-ux&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhwmgl12-ux&layout=compact)
+추가예정😄
+2026-05-28
 
 ---
 
