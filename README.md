@@ -16,49 +16,53 @@ Here are some ideas to get you started:
 -->
 # 안녕하세요, 박형우입니다 👋
 
-프론트엔드 개발을 배우고 있으며,  
-HTML, CSS, JavaScript, Git/GitHub를 하나씩 익히는 중입니다.
+프론트엔드 개발을 배우고 있으며  
+HTML, CSS, JavaScript, Git/GitHub를 중심으로 공부하고 있습니다.
+
+웹디자인과 마케팅 경험을 바탕으로  
+사용자가 보기 편하고 이해하기 쉬운 웹사이트를 만드는 것을 목표로 합니다.
 
 ---
 
-## 현재 배우는 것
+## 현재 배우는 기술
 
-- HTML 기본 구조
-- CSS 레이아웃
-- JavaScript 기초
-- Git / GitHub 사용법
-- README.md 작성법
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
 ## 관심 분야
 
 - 프론트엔드 개발
-- 웹디자인
+- 반응형 웹사이트
 - UI/UX
-- 피그마 와이어프레임
-- 반응형 웹사이트 제작
+- Figma 와이어프레임
+- 웹디자인 기반 퍼블리싱
+- Git/GitHub 협업 흐름
 
 ---
 
-## 사용해본 도구
+## GitHub 활동
 
-- VS Code
-- Git
-- GitHub
-- Figma
-- Photoshop
-- Illustrator
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhwmgl12-ux&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhwmgl12-ux&layout=compact)
 
 ---
 
-## 학습 기록
+## 학습 목표
 
-처음에는 어렵지만, 직접 실습하면서  
-개발 흐름과 GitHub 사용법에 익숙해지는 중입니다.
+- HTML/CSS 기본기 탄탄하게 만들기
+- JavaScript로 동적인 기능 구현하기
+- React 기초 학습하기
+- GitHub에 프로젝트 정리하기
+- 포트폴리오용 웹사이트 제작하기
 
 ---
 
-## 연락
+## 연락처
 
-- Email: dhwmgl12@gmail.com
+Email: dhwmgl12@gmail.com
