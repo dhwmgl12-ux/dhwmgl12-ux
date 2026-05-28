@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="./profile-banner.png" width="100%" alt="박형우 GitHub README 배너" />
+<img src="./profile_a-banner.png" width="100%" alt="박형우 GitHub README 배너" />
 
 # 안녕하세요! 박형우입니다~~ 👋
 
